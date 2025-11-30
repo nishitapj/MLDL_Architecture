@@ -1,4 +1,5 @@
 # MLDL_Architecture
+```mermaid
 graph TD
     %% Core Inputs
     Input([Raw Legal Documents<br/>BillSum Corpus]) --> Norm[Text Normalization]
